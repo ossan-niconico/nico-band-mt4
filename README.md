@@ -16,8 +16,8 @@ ATRトレンドバンドを1枚のチャートに同時表示します。
 5. ナビゲーター →「nico-band-7TF」をチャートにドラッグ
 
 ## 詳細マニュアル・配布記事
-
-（noteのURLをここに追加してください）
+・配布記事（https://note.com/ossan_niconico/n/ne6a576edcc71?app_launch=false）
+・有料マニュアル（https://note.com/ossan_niconico/n/ncad76f998826）
 
 ## 作者
 
